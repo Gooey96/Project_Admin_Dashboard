@@ -6,3 +6,7 @@ svg {
   color: white;
   border: 1px solid black; /* for debugging */
 }
+
+.sidebar {
+  background-color: blue; /* this is only temporary */
+}
