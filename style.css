@@ -1,3 +1,8 @@
 .icon {
   max-width: 30px;
 }
+
+svg {
+  color: white;
+  border: 1px solid black; /* for debugging */
+}
