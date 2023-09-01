@@ -14,3 +14,9 @@ svg {
   background-color: gray; /* this is only temporary */
   border-radius: 30px;
 }
+
+img {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+}
