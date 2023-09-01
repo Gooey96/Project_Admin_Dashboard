@@ -7,3 +7,10 @@ svg {
 .sidebar {
   background-color: blue; /* this is only temporary */
 }
+
+.search {
+  height: 25px;
+  width: 200px;
+  background-color: gray;
+  border-radius: 30px;
+}
