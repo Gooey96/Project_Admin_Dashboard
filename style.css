@@ -12,6 +12,10 @@ svg {
   background-color: rebeccapurple; /* this is only temporary */
 }
 
+.main-contents {
+  background-color: aquamarine; /* this is only temporary */
+}
+
 .search {
   height: 25px;
   width: 200px;
