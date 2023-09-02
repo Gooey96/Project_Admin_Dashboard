@@ -24,3 +24,10 @@ img {
   width: 60px;
   border-radius: 50%;
 }
+
+.card-items p:first-child,
+.info > p,
+.headline,
+.trend > p {
+  font-weight: bolder;
+}
