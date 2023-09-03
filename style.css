@@ -6,6 +6,11 @@
   margin: 0;
 }
 
+.container {
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+}
+
 svg {
   color: white;
   border: 1px solid black; /* for debugging */
