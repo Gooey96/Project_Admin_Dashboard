@@ -22,6 +22,11 @@ svg {
   background-color: blue; /* this is only temporary */
 }
 
+.sidebar-items {
+  margin-bottom: 50px;
+  margin-left: 20px;
+}
+
 .header {
   background-color: rebeccapurple; /* this is only temporary */
 }
