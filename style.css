@@ -38,7 +38,7 @@ svg {
 
 .sidebar-items:first-child p {
   font-weight: bolder;
-  font-size: 24px;
+  font-size: 26px;
 }
 
 .sidebar-items:nth-child(n+2) svg {
