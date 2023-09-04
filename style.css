@@ -41,6 +41,10 @@ svg {
   font-size: 24px;
 }
 
+.sidebar-items:nth-child(n+2) svg {
+  margin-left: 5px;
+}
+
 .header {
   background-color: rebeccapurple; /* this is only temporary */
 }
