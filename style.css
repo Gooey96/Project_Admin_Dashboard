@@ -39,6 +39,7 @@ svg {
 .sidebar-items:first-child p {
   font-weight: bolder;
   font-size: 26px;
+  color: white;
 }
 
 .sidebar-items:nth-child(n+2) svg {
@@ -48,6 +49,7 @@ svg {
 .sidebar-items:nth-child(n+2) p {
   font-weight: bold;
   font-size: 20px;
+  color: white;
 }
 
 .header {
