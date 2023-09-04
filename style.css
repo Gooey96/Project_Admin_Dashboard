@@ -31,6 +31,10 @@ svg {
   align-items: center;
 }
 
+.sidebar-items:first-child svg {
+  max-width: 45px;
+}
+
 .header {
   background-color: rebeccapurple; /* this is only temporary */
 }
