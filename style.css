@@ -35,6 +35,11 @@ svg {
   max-width: 45px;
 }
 
+.sidebar-items:first-child p {
+  font-weight: bolder;
+  font-size: 20px;
+}
+
 .header {
   background-color: rebeccapurple; /* this is only temporary */
 }
