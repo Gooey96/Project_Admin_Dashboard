@@ -88,6 +88,11 @@ svg {
   font-weight: bold;
 }
 
+.profile div p:nth-child(2) {
+  font-size: larger;
+  font-weight: bolder;
+}
+
 .main-contents {
   background-color: aquamarine; /* this is only temporary */
 }
