@@ -54,6 +54,9 @@ svg {
 
 .header {
   background-color: rebeccapurple; /* this is only temporary */
+  padding: 25px 50px;
+  display: grid;
+  grid-template-columns: 3fr 2fr;
 }
 
 .main-contents {
