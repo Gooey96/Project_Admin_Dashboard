@@ -83,6 +83,11 @@ svg {
   margin-bottom: 10px;
 }
 
+.profile div p:first-child {
+  font-size: small;
+  font-weight: bold;
+}
+
 .main-contents {
   background-color: aquamarine; /* this is only temporary */
 }
