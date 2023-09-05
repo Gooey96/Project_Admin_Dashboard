@@ -103,6 +103,7 @@ svg {
 .second-profile img {
   height: 40px;
   width: 40px;
+  justify-self: center;
 }
 
 .main-contents {
