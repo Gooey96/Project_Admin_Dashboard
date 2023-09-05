@@ -72,6 +72,12 @@ svg {
   margin-bottom: 30px;
 }
 
+.profile {
+  display: grid;
+  grid-template-columns: 80px 1fr;
+  align-items: center;
+}
+
 .main-contents {
   background-color: aquamarine; /* this is only temporary */
 }
