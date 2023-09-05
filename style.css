@@ -78,6 +78,11 @@ svg {
   align-items: center;
 }
 
+.profile div p {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
 .main-contents {
   background-color: aquamarine; /* this is only temporary */
 }
