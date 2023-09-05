@@ -66,6 +66,11 @@ svg {
   border-radius: 30px;
 }
 
+.search-items {
+  display: grid;
+  grid-template-columns: 50px 1fr;
+}
+
 .main-contents {
   background-color: aquamarine; /* this is only temporary */
 }
