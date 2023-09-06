@@ -73,6 +73,12 @@ svg {
   margin-bottom: 30px;
 }
 
+.search-items .icon svg {
+  max-width: 24px;
+  margin-top: 5px;
+  margin-left: 15px;
+}
+
 .profile {
   display: grid;
   grid-template-columns: 80px 1fr;
