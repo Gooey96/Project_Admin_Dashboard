@@ -61,7 +61,7 @@ svg {
 
 .search {
   height: 25px;
-  width: 90%;
+  width: 100%;
   align-self: center;
   background-color: gray; /* this is only temporary */
   border-radius: 30px;
