@@ -65,6 +65,7 @@ svg {
   align-self: center;
   background-color: gray; /* this is only temporary */
   border-radius: 30px;
+  border: none;
 }
 
 .search-items {
