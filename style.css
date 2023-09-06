@@ -83,6 +83,7 @@ svg {
   display: grid;
   grid-template-columns: 80px 1fr;
   align-items: center;
+  margin-left: 14px;
 }
 
 .profile img {
