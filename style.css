@@ -105,8 +105,8 @@ svg {
   grid-template-columns: 60px 80px 1fr;
   align-items: center;
   gap: 10px;
-  padding-left: 90px;
-  margin-bottom: 65px;
+  padding-left: 70px;
+  margin-bottom: 45px;
 }
 
 .second-profile .icon svg {
