@@ -87,6 +87,7 @@ svg {
 .profile div p {
   margin-top: 10px;
   margin-bottom: 10px;
+  margin-left: 20px;
 }
 
 .profile div p:first-child {
