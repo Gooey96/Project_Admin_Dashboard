@@ -120,6 +120,11 @@ svg {
   justify-self: center;
 }
 
+.second-profile p {
+  font-size: large;
+  font-weight: bold;
+}
+
 .main-contents {
   background-color: aquamarine; /* this is only temporary */
 }
