@@ -132,6 +132,16 @@ svg {
   padding: 0 20px;
 }
 
+button {
+  height: 40px;
+  border-radius: 30px;
+  border: none;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  background-color: brown;
+}
+
 .main-contents {
   background-color: aquamarine; /* this is only temporary */
 }
