@@ -157,6 +157,10 @@ button {
   background-color: aquamarine; /* this is only temporary */
 }
 
+.info {
+  grid-column: 3 / 4;
+}
+
 img {
   height: 60px;
   width: 60px;
