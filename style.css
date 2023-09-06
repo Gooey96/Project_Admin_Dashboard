@@ -79,6 +79,11 @@ svg {
   align-items: center;
 }
 
+.profile img {
+  height: 80px;
+  width: 80px;
+}
+
 .profile div p {
   margin-top: 10px;
   margin-bottom: 10px;
