@@ -100,7 +100,7 @@ svg { /* This rules need to be remove when the website page is done */
 }
 
 .profile div p:first-child {
-  font-size: small;
+  font-size: 15px;
   font-weight: bold;
 }
 
