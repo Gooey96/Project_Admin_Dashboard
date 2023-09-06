@@ -101,6 +101,10 @@ svg {
   margin-bottom: 65px;
 }
 
+.second-profile .icon svg {
+  margin-left: 30px;
+}
+
 .second-profile img {
   height: 40px;
   width: 40px;
