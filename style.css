@@ -98,6 +98,7 @@ svg {
   display: grid;
   grid-template-columns: 60px 80px 1fr;
   align-items: center;
+  margin-bottom: 65px;
 }
 
 .second-profile img {
