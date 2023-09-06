@@ -161,6 +161,11 @@ button {
   grid-column: 3 / 4;
 }
 
+.trend {
+  grid-column: 3 / 4;
+  grid-row: 3 / 4;
+}
+
 img {
   height: 60px;
   width: 60px;
