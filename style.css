@@ -175,6 +175,11 @@ button {
   border: 1px solid black;
 }
 
+.iconGroup {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
 img {
   height: 60px;
   width: 60px;
