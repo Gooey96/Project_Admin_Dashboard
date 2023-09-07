@@ -159,6 +159,12 @@ button {
   background-color: aquamarine; /* this is only temporary */
 }
 
+.cardGroup {
+  display: grid;
+  grid-template-columns: 2fr 2fr;
+  gap: 20px;
+}
+
 .cards {
   border: 1px solid black;
 }
