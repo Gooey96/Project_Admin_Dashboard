@@ -159,6 +159,11 @@ button {
   background-color: aquamarine; /* this is only temporary */
 }
 
+.firstCard-items > p {
+  margin-bottom: 10px;
+  font-size: 22px;
+}
+
 .cardGroup {
   display: grid;
   grid-template-columns: 2fr 2fr;
