@@ -159,6 +159,10 @@ button {
   background-color: aquamarine; /* this is only temporary */
 }
 
+.cards {
+  border: 1px solid black;
+}
+
 img {
   height: 60px;
   width: 60px;
