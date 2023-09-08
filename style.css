@@ -53,7 +53,7 @@ svg { /* This rules need to be remove when the website page is done */
 }
 
 .header {
-  background-color: rebeccapurple; /* this is only temporary */
+  background-color: #ffffff;
   padding: 25px 50px;
   display: grid;
   grid-template-columns: 3fr 2fr;
