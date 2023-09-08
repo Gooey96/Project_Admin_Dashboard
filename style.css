@@ -169,6 +169,7 @@ button {
   display: grid;
   grid-template-columns: 2fr 2fr;
   gap: 20px;
+  grid-row-gap: 30px;
 }
 
 .cards {
