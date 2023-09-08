@@ -209,6 +209,7 @@ button {
   padding: 30px 20px 20px;
   background-color: #ffffff;
   border: 1px solid black; /* this is for debugging */
+  border-radius: 6px;
 }
 
 .info-card p:nth-child(n+2) {
