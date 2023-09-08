@@ -29,7 +29,7 @@ svg { /* This rules need to be remove when the website page is done */
   display: grid;
   grid-template-columns: 55px 1fr;
   align-items: center;
-  grid-row-gap: 10px;
+  grid-row-gap: 20px;
 }
 
 .sidebar-items:first-child svg {
