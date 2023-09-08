@@ -211,6 +211,12 @@ button {
   border: 1px solid black; /* this is for debugging */
 }
 
+.info-card p:nth-child(n+2) {
+  margin-top: 5px;
+  font-size: 14px;
+  color: #3f3f46;
+}
+
 .linebreak {
   border: 1px solid black;
   margin: 15px 0;
