@@ -204,6 +204,10 @@ button {
   border: 1px solid black;
 }
 
+.info-card {
+  border: 1px solid black;
+}
+
 img {
   height: 60px;
   width: 60px;
