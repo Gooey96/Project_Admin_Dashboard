@@ -162,6 +162,7 @@ button {
 .firstCard-items > p {
   margin-bottom: 10px;
   font-size: 22px;
+  border: 1px solid black;
 }
 
 .cardGroup {
@@ -200,6 +201,7 @@ button {
 .info > p {
   margin-bottom: 10px;
   font-size: 22px;
+  border: 1px solid black;
 }
 
 img {
