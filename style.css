@@ -212,7 +212,7 @@ button {
   border-radius: 6px;
 }
 
-.info-card p:nth-child(n+2) {
+.text {
   margin-top: 5px;
   font-size: 14px;
   color: #3f3f46;
