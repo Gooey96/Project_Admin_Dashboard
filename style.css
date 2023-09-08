@@ -175,6 +175,11 @@ button {
   border: 1px solid black;
 }
 
+.cards p:nth-child(2) {
+  padding-right: 50px;
+  font-size: 14px;
+}
+
 .iconGroup {
   display: grid;
   grid-template-columns: repeat(3, 30px);
