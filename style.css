@@ -211,6 +211,10 @@ button {
   border: 1px solid black; /* this is for debugging */
 }
 
+.linebreak {
+  border: 1px solid black;
+}
+
 img {
   height: 60px;
   width: 60px;
