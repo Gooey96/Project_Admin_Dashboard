@@ -172,6 +172,7 @@ button {
 
 .cards {
   padding: 30px 5px 10px 30px;
+  border-radius: 6px;
   border: 1px solid black;
 }
 
