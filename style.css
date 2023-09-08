@@ -176,6 +176,7 @@ button {
 }
 
 .cards p:nth-child(2) {
+  margin-top: 10px;
   padding-right: 50px;
   font-size: 14px;
 }
