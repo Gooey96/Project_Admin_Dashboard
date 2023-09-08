@@ -155,7 +155,7 @@ button {
   display: grid;
   grid-template-columns: 3fr 1fr;
   gap: 20px;
-  padding: 30px 30px;
+  padding: 30px 30px 30px 15px;
   background-color: aquamarine; /* this is only temporary */
 }
 
