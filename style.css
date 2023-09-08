@@ -175,6 +175,10 @@ button {
   border: 1px solid black;
 }
 
+.cards > p {
+  font-size: larger;
+}
+
 .cards p:nth-child(2) {
   margin-top: 10px;
   padding-right: 50px;
