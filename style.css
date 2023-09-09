@@ -235,9 +235,9 @@ button {
   border: 1px solid black; /* for debugging */
 }
 
-img {
-  height: 60px;
-  width: 60px;
+.trend-card img {
+  height: 50px;
+  width: 50px;
   border-radius: 50%;
 }
 
