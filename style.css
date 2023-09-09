@@ -236,6 +236,7 @@ button {
 .trend > p {
   font-weight: bolder;
   margin-bottom: 10px;
+  font-size: 22px;
 }
 
 .trend {
