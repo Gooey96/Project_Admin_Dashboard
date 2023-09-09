@@ -253,6 +253,10 @@ button {
   background-color: #ffffff;
 }
 
+.trend-card p:first-child {
+  font-weight: bold;
+}
+
 .trend-card img {
   height: 50px;
   width: 50px;
