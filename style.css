@@ -227,6 +227,11 @@ button {
   opacity: 0.1;
 }
 
+.headline,
+.trend > p {
+  font-weight: bolder;
+}
+
 .trend {
   margin-top: 77px;
 }
@@ -244,9 +249,4 @@ button {
   height: 50px;
   width: 50px;
   border-radius: 50%;
-}
-
-.headline,
-.trend > p {
-  font-weight: bolder;
 }
