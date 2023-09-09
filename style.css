@@ -91,6 +91,7 @@ svg { /* This rules need to be remove when the website page is done */
 .profile img {
   height: 80px;
   width: 80px;
+  border-radius: 50%;
 }
 
 .profile div p {
@@ -126,6 +127,7 @@ svg { /* This rules need to be remove when the website page is done */
 .second-profile img {
   height: 50px;
   width: 50px;
+  border-radius: 50%;
   justify-self: center;
 }
 
