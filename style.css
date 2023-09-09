@@ -215,6 +215,10 @@ button {
   border-radius: 6px;
 }
 
+.headline {
+  font-weight: bolder;
+}
+
 .text {
   margin-top: 5px;
   font-size: 14px;
@@ -227,7 +231,6 @@ button {
   opacity: 0.1;
 }
 
-.headline,
 .trend > p {
   font-weight: bolder;
 }
