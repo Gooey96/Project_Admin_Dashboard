@@ -164,6 +164,7 @@ button {
 .firstCard-items > p {
   margin-bottom: 10px;
   font-size: 22px;
+  font-weight: bolder;
   border: 1px solid black;
 }
 
@@ -204,6 +205,7 @@ button {
 .info > p {
   margin-bottom: 10px;
   font-size: 22px;
+  font-weight: bolder;
   border: 1px solid black;
 }
 
@@ -244,8 +246,6 @@ button {
   border-radius: 50%;
 }
 
-.firstCard-items p:first-child,
-.info > p,
 .headline,
 .trend > p {
   font-weight: bolder;
