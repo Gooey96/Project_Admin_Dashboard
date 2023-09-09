@@ -183,8 +183,10 @@ button {
   border-color: orange;
 }
 
-.cards > p {
+.cards p:first-child {
   font-size: larger;
+  font-weight: bolder;
+  
 }
 
 .cards p:nth-child(2) {
