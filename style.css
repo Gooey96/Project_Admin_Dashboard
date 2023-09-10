@@ -156,7 +156,7 @@ button {
   grid-template-columns: 3fr 1fr;
   gap: 20px;
   padding: 30px 30px 30px 15px;
-  background-color: aquamarine; /* this is only temporary */
+  background-color: #e2e8f0;
 }
 
 .firstCard-items > p {
