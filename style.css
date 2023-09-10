@@ -6,6 +6,15 @@
   margin: 0;
 }
 
+@font-face {
+  font-family: roboto;
+  src: url(fonts/Roboto-Regular.ttf);
+}
+
+body {
+  font-family: roboto;
+}
+
 .container {
   display: grid;
   grid-template-columns: 1fr 4fr;
